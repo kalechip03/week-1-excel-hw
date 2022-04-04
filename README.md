@@ -1,10 +1,10 @@
 #An Analysis of Kickstarter Campaigns
 ##Overview of Project
-###In this analysis, we looked at data surrounding successful, failed, and canceled Kickstarter campaign projects for putting together plays.
+###Purpose: In this analysis, we looked at data surrounding successful, failed, and canceled Kickstarter campaign projects for putting together plays.
 
 The data we looked at included dates, goal amounts, types of projects being fundraised, pledged goal amounts, average goal amounts, and most importantly whether or not the projects were successful.
 
-##Analysis Overview
+##Analysis & Challenges
 
 In our analysis we looked specifically at what time of year Kickstarter campaigns for play fundraising was most successful, as well as how much the average goal and pledge amount ranges they had. 
 
